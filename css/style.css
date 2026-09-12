@@ -21,3 +21,11 @@
             background-color: blue;
             color: white;
         }
+
+        #pg-background {
+            background-color: rgb(228, 158, 28);
+         }
+
+         *{
+            background-color: black;
+         }
