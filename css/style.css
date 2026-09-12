@@ -1,5 +1,23 @@
-h1 {
+/* h1 {
             background-color: greenyellow;
             color: white;
             text-align: center;
+        }
+
+        p{
+            background-color: rgb(5, 172, 228);        
+        }
+
+        p{
+            background-color: green;        
+        } */
+
+        .bg-red-h1 {
+            background-color: red;
+            color: white;
+        }
+
+        .bg-blue-h1 {
+            background-color: blue;
+            color: white;
         }
