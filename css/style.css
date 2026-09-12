@@ -20,12 +20,13 @@
         .bg-blue-h1 {
             background-color: blue;
             color: white;
+            font-family:monospace
         }
 
         #pg-background {
             background-color: rgb(228, 158, 28);
          }
 
-         *{
+         /* *{
             background-color: black;
-         }
+         } */
